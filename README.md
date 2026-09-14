@@ -19,6 +19,6 @@ Olist 是巴西最大的电商平台之一。本项目旨在通过清洗和分�
 
 ## 📁 仓库文件说明
 *   `Olist_Analysis.ipynb`：Python 数据清洗与 EDA 分析代码。
-*   `clean_data.csv`：清洗合并后的最终数据集。
+*   `clean_data.xlsx`：清洗合并后的最终数据集。
 *   `Olist_Dashboard.pbix`：Power BI 交互式仪表板源文件。
 *   注：Power BI 源文件由于体积较大未上传，具体分析结论请参见上方看板截图。
